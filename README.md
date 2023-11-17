@@ -3,11 +3,8 @@
 Important details
 -Huggingface API Key: API Key: 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
 -Model: gpt2 (https://api-inference.huggingface.co/models/gpt2)
--external IP VM: 34.65.165.180
--Firewall: 
-    - Quellfilter: 0.0.0.0/0
-    - Zielfilter: 0.0.0.0/0
-    - Zieltags: "https-server" "http-server"
+-external IP VM: 34.65.165.180/>
+-Firewall: Quellfilter: 0.0.0.0/0; Zielfilter: 0.0.0.0/0; Zieltags: "https-server" "http-server"
 
 <img width="741" alt="Screenshot 2023-11-17 at 16 49 37" src="https://github.com/maitira/shannon_gelpi-dt1-23/assets/99893716/b5c39b7c-64d1-4d9c-a213-c66aae2bc1b5">
 
