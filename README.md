@@ -9,6 +9,7 @@ Important details
     - Zielfilter: 0.0.0.0/0
     - Zieltags: "https-server" "http-server"
 
+<img width="741" alt="Screenshot 2023-11-17 at 16 49 37" src="https://github.com/maitira/shannon_gelpi-dt1-23/assets/99893716/b5c39b7c-64d1-4d9c-a213-c66aae2bc1b5">
 
 
 **BUBBLE**
@@ -41,17 +42,15 @@ Final Script:
 </script>
 
 
-
-
 **DOCKER**
 
 
 
 
 
-
 **Problems**
-docker image ^^
+
+most embarrassing fail: I thouhgt initially docker image ^^
 5000 vs. 8080
 amd64 vs. arm64
 ubuntu vs. debian
